@@ -1,6 +1,4 @@
-# Bitcoin-OTC-Network-Analysis
-Network analysis of the Bitcoin OTC trust dataset to uncover trust dynamics for financial transaction reliability.
---
+
 # Network Analysis: Bitcoin OTC Trust Weighted Signed Network
 
 An end-to-end network analysis project exploring trust dynamics in the Bitcoin OTC trust weighted signed network dataset to support reliable financial transactions.
