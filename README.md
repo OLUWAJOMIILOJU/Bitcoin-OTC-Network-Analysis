@@ -30,7 +30,7 @@ This project analyzes the [Bitcoin OTC trust weighted signed network dataset](ht
 - **Data Prep**: Loaded `soc-sign-bitcoinotc.csv`, converted timestamps, built a directed graph.
 - **Analysis**: Computed trust scores, variability, community detection, and more.
 
-See [Bitcoin_OTC_Analysis.ipynb](./Bitcoin_OTC_Analysis.ipynb) for full code.
+See [Bitcoin_OTC_Analysis.ipynb](./Bitcoin_OTC_Analysis.py) for full code.
 
 ---
 
