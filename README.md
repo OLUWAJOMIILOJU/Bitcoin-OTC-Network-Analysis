@@ -31,7 +31,7 @@ This project analyzes the [Bitcoin OTC trust weighted signed network dataset](ht
 - **Analysis**: Computed trust scores, variability, community detection, and more.
 
 See [Bitcoin_OTC_Analysis.ipynb](./Bitcoin_OTC_Analysis.ipynb) for full code.
-See
+
 ---
 
 ## 📊 Key Findings
@@ -42,7 +42,41 @@ See
 - Trust ratings peaked in 2011/2013, then declined.
 - Top 20 trusted users form a dense core (45 edges), posing vulnerabilities.
 - 89.9% positive ratings support network credibility.
-
+  
+See [Technical Report](./Technical_Report_Network_Analysis.pdf) for full report.
 ---
 
 ## 📂 Repository Structure
+ - Figures/                   # Visualization images
+ - Bitcoin_OTC_Analysis.ipynb        # Jupyter Notebook with code and analysis
+ - README.md                         # Project overview
+ - Technical_Report_Network_Analysis.pdf  # Detailed technical report
+
+
+*Note*: The dataset (`soc-sign-bitcoinotc.csv`) is not included but can be downloaded from the [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/soc-sign-bitcoinotc.html).
+
+---
+
+## 🚀 Getting Started
+
+To explore the analysis:
+1. Clone the repository: `git clone https://github.com/OLUWAJOMILOJU/Bitcoin-OTC-Network-Analysis.git`
+2. Install dependencies: `pip install pandas networkx matplotlib seaborn python-louvain jupyter`
+3. Run the notebook: `jupyter notebook Bitcoin_OTC_Analysis.ipynb`
+---
+## 👤 Author
+
+**Oluwajomiloju Emmanuel Oladeji**  
+📍 Lagos, Nigeria  
+🔗 [LinkedIn](https://www.linkedin.com/in/oluwajomiloju-oladeji-5baba6260) • 📧 [Email](mailto:oluwajomilojuoladeji@gmail.com)
+
+---
+
+## Feedback & Collaboration
+
+Interested in extending this project or collaborating? Open issues, submit pull requests, or reach out via [email](mailto:oluwajomilojuoladeji@gmail.com). Feedback is welcome!
+
+---
+##  References
+
+- [Bitcoin OTC Dataset](https://snap.stanford.edu/data/soc-sign-bitcoinotc.html)
