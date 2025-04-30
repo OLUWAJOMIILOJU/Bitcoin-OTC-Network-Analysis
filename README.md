@@ -62,7 +62,7 @@ See [Technical Report](Technical_Report_Network_Analysis.pdf) for full report.
 To explore the analysis:
 1. Clone the repository: `git clone https://github.com/OLUWAJOMILOJU/Bitcoin-OTC-Network-Analysis.git`
 2. Install dependencies: `pip install pandas networkx matplotlib seaborn python-louvain jupyter`
-3. Run the notebook: `jupyter notebook Bitcoin_OTC_Analysis.ipynb`
+3. Run the notebook: `Bitcoin_OTC_Analysis.ipynb`
 ---
 ## 👤 Author
 
