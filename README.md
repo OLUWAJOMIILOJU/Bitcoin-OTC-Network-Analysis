@@ -43,7 +43,7 @@ See [Bitcoin_OTC_Analysis.ipynb](./Bitcoin_OTC_Analysis.ipynb) for full code.
 - Top 20 trusted users form a dense core (45 edges), posing vulnerabilities.
 - 89.9% positive ratings support network credibility.
   
-See [Technical Report](./Technical_Report_Network_Analysis.pdf) for full report.
+See [Technical Report](Technical_Report_Network_Analysis.pdf) for full report.
 ---
 
 ## 📂 Repository Structure
